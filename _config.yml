@@ -1,0 +1,28 @@
+name: Parenting
+favicon: null
+layout_spectrum: 0.33440923132002354
+typography_spectrum: 0.6025622051674873
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.568352347239852
+  lightness: 0.5200413737911731
+  saturation: 0.7541873387526721
+  rhythmicContrast: 0.2927273758687079
+purpose: []
